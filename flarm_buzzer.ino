@@ -1,7 +1,7 @@
 // *****************************************
 // ***	       PROYECTO FLARM		 ***
 // *** 	      	 BUZZER TEST             ***
-// ***   	         (v1.1)		 ***
+// ***   	   (v1.1)		 ***
 // ***        AKAFLIEG MADRID            ***
 // *** UNIVERSIDAD POLITECNICA DE MADRID ***
 // *****************************************
