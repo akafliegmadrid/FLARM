@@ -1,7 +1,7 @@
 // *****************************************
-// ***	       PROYECTO FLARM		         ***
+// ***	       PROYECTO FLARM		 ***
 // *** 	      	 BUZZER TEST             ***
-// ***   	         (v1.1)		             ***
+// ***   	         (v1.1)		 ***
 // ***        AKAFLIEG MADRID            ***
 // *** UNIVERSIDAD POLITECNICA DE MADRID ***
 // *****************************************
@@ -17,7 +17,7 @@
   int notes[2] = {660, 990};  	       // Array de frecuencias para los zumbadores
 
   boolean flag_ac_detected = false;    // Flag activacion sistema de alerta sonora
-  int buzzer_delay;    		             // Delay del zumbador en funcion del Relative Horizontal
+  int buzzer_delay;    		       // Delay del zumbador en funcion del Relative Horizontal
   int zumbador;                        // Zumbador por donde pita
   boolean flag_2_buzzer = false;       // Flag para emision de alarma por dos zumbadores
   int freq;                            // Frecuencia que suena
